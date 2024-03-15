@@ -5,7 +5,7 @@
 
 Motivation: 
 
-During the last few years, watching movies has evolved from a casual pastime into one of my most cherished hobbies. As a zealous moviegoer, I've maintained an online diary to track the films I've watched. This project was born out of a desire to delve into my cinematic journey, to understand my evolution as a movie enthusiast, and to uncover patterns in my movie-watching behavior. By analyzing the data of movies I've watched and rated, I aimed to gain insights into my preferences and to see how they align with broader cinematic trends and critiques.
+During the last few years, watching movies has evolved from a casual pastime into one of my most cherished hobbies. As a movie enjoyer, I've maintained an online diary to track the films I've watched. This project was born out of a desire to delve into my cinematic journey, to understand my evolution as a movie enthusiast, and to uncover patterns in my movie-watching behavior. By analyzing the data of movies I've watched and rated, I aimed to gain insights into my preferences and to see how they align with broader cinematic trends and critiques.
 
 
 Data Source: 
